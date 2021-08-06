@@ -1,2 +1,2 @@
 # onlinestore
-Data preparatio and analysis of online store
+Data preparation and analysis of online store
